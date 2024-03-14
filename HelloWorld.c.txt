@@ -1,6 +1,6 @@
 @includ<stdio.h>
 int main(){
-    printf("Hello World");
-    printf("hello World\n")
+    printf("hello World\n");
+    printf("Hello GitHub);
     return 0;
 }
